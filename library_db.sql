@@ -39,7 +39,7 @@ CREATE TABLE `admin_dt` (
 
 INSERT INTO `admin_dt` (`id_admin`, `username`, `password`) VALUES
 (10201, 'nanaz', 'n1234'),
-(10202, 'miftaa', 'hae123');
+(10202, 'miftaa', 'hae123') ;
 
 -- --------------------------------------------------------
 
