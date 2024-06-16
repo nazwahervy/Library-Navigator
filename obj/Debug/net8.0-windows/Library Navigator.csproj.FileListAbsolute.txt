@@ -1,0 +1,46 @@
+D:\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.exe
+D:\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.deps.json
+D:\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.runtimeconfig.json
+D:\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.dll
+D:\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.pdb
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library_Navigator.Properties.Resources.resources
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.csproj.GenerateResource.cache
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.AssemblyInfoInputs.cache
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.AssemblyInfo.cs
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.csproj.CoreCompileInputs.cache
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.dll
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\refint\Library Navigator.dll
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.pdb
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.genruntimeconfig.cache
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\ref\Library Navigator.dll
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library_Navigator.Menu_Utama.resources
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Aplikasi_Pustaka.Formlogin.resources
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library_Navigator.GUI.Kelola_Pustaka.resources
+D:\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\PencarianBuku.FormCariBuku.resources
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.dll
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\refint\Library Navigator.dll
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.pdb
+C:\Semester 4\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.exe
+C:\Semester 4\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.deps.json
+C:\Semester 4\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.runtimeconfig.json
+C:\Semester 4\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.dll
+C:\Semester 4\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.pdb
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\PencarianBuku.FormCariBuku.resources
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library_Navigator.GUI.Kelola_Pustaka.resources
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library_Navigator.Menu_Utama.resources
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library_Navigator.Properties.Resources.resources
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.csproj.GenerateResource.cache
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.AssemblyInfoInputs.cache
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.AssemblyInfo.cs
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.csproj.CoreCompileInputs.cache
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.genruntimeconfig.cache
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\ref\Library Navigator.dll
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library_Navigator.GUI.FormLogin.resources
+C:\Semester 4\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Semester 4\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library Navigator.csproj.AssemblyReference.cache
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library .EEA6DC20.Up2Date
+C:\Semester 4\Pemrograman Visual\Library Navigator\obj\Debug\net8.0-windows\Library_Navigator.GUI.Denah.resources
+C:\Semester 4\Pemrograman Visual\Library Navigator\bin\Debug\net8.0-windows\Library Navigator.dll.config
