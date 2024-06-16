@@ -24,7 +24,7 @@ Aplikasi ini dibangun dengan menggunakan:
 3. Buka file Library Navigator.sln
 
 ## Credit
-> Nazwa Eka Hervy as Developer
-> Novita Herawati and Miftahul Jannah as Visual Designer
-> Aldiansyah as Project Manager
->J.E Lyanda as Analyze Requirement
+> Nazwa Eka Hervy as Developer;
+> Novita Herawati and Miftahul Jannah as Visual Designer;
+> Aldiansyah as Project Manager;
+> J.E Lyanda as Analyze Requirement
